@@ -17,7 +17,7 @@ I'm a backend developer passionate about building efficient and scalable systems
 </div>
 
 ### 🎓 Education
-- Graduated from **Sungkonghoe University**, South Korea
+- Currently a student at **Sungkonghoe University**, South Korea
 
 ### 🌟 Community Involvement
 - Member of **Google Developer Groups On Campus (GDGoC)** at Sungkonghoe University

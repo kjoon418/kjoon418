@@ -27,9 +27,9 @@ I'm a backend developer passionate about building efficient and scalable systems
 ### 📈 GitHub Stats & Contributions
 You can check out my projects and contributions below to see my journey and growth as a developer!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/kjoon418)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjoon418&show_icons=true&theme=radical)](https://github.com/kjoon418)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/kjoon418)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kjoon418&layout=compact&theme=radical)](https://github.com/kjoon418)
 
 ---
 

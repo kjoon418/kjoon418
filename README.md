@@ -21,7 +21,7 @@
 - [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 4기 Organizer
 
 ### 학습 블로그
-- [JunWatson'sVelog](https://velog.io/@kjoon418/posts)
+- [Velog](https://velog.io/@kjoon418/posts)
 
 ---
 
@@ -29,5 +29,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjoon418&show_icons=true&theme=radical)](https://github.com/kjoon418)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kjoon418&layout=compact&theme=radical)](https://github.com/kjoon418)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjoon418)](https://solved.ac/kjoon418/)
 
 ---

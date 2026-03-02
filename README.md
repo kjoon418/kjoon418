@@ -19,6 +19,7 @@
 ### 🌟 커뮤니티 활동
 - [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 3기 Core Member
 - [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 4기 Organizer
+- [우아한테크코스](https://github.com/woowacourse) 8기 백엔드
 
 ### 학습 블로그
 - [Velog](https://velog.io/@kjoon418/posts)

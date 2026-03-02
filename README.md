@@ -21,5 +21,9 @@
 - [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 4기 Organizer
 - [우아한테크코스](https://github.com/woowacourse) 8기 백엔드
 
+### 🏆 수상 이력
+- 👩‍💻 [Teaming](https://github.com/GoodSpace-Kr/Teaming-Backend): 성공회대학교 2025학년도 제16회 IT 경진대회 은상
+- 👟 [Runners Hi](https://github.com/GoodSpace-Kr/Runners-Hi-KMP): 성공회대학교 창업동아리 최우수동아리 선정
+
 ### 학습 블로그
 - [Velog](https://velog.io/@kjoon418/posts)

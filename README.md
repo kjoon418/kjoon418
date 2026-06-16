@@ -17,8 +17,8 @@
  **성공회대학교** 재학 중
 
 ### 🌟 커뮤니티 활동
-- [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 3기 Core Member
-- [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 4기 Organizer
+- [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 3기 운영진(Core Member)
+- [GDG on Campus SKHU](https://github.com/GDG-on-Campus-SKHU) 4기 동아리장(Organizer)
 - [우아한테크코스](https://github.com/woowacourse) 8기 백엔드
 
 ### 🏆 수상 이력
